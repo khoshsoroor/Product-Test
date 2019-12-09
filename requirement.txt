@@ -1,0 +1,6 @@
+requests
+khayyam
+aloe
+pyyaml
+pymongo
+requests-jwt
